@@ -1,5 +1,6 @@
 # Fsminishell
-This Program contains the similiar useful commands from Linux shell
+This Program contains the similiar useful commands from Linux Shell
+
 Timp de implementare: 2 saptamani
 
 Programul de fata descrie jocul battleship cu toate optiunile sale si anume
